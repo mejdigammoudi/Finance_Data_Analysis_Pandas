@@ -1,9 +1,7 @@
-# Lecture-5-
-Data Analysis with Pandas
+# Data_Analysis_Pandas
+Libraries : Numpy / pandas / matplotlib
 
- Libraries : Numpy / pandas / matplotlib
-
- Courses : 
+Courses : 
  - Understanding the DataFrame Class
  - Basic Analytics with Pandas
  - GroupBy Operations
@@ -22,4 +20,3 @@ Data Analysis with Pandas
  9) Complex Selection : the change in volume from the previous day
  10) Merging Financial Datasets : daily stock price dataset / the daily price movement
  11) Financial data : right join / outer join / inner join
-
