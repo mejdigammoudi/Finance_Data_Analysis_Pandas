@@ -1,4 +1,4 @@
-# Data_Analysis_Pandas
+# Finance_Data_Analysis_Pandas
 Libraries : Numpy / pandas / matplotlib
 
 Courses : 
